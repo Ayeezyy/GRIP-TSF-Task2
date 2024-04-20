@@ -8,8 +8,8 @@ The task involved building a decision tree model to predict the species of iris 
 
 ## Files Included
 
-- **decision_tree_model.ipynb**: Jupyter Notebook containing the Python code for data preprocessing, model training, evaluation, and prediction using a decision tree classifier.
-- **iris_dataset.csv**: CSV file containing the iris dataset used for training and testing the decision tree model.
+- **Task-2_Decision_Tree.ipynb**: Jupyter Notebook containing the Python code for data preprocessing, model training, evaluation, and prediction using a decision tree classifier.
+- **iris.csv**: CSV file containing the iris dataset used for training and testing the decision tree model.
 
 ## Dataset
 
