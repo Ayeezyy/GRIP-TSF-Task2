@@ -13,7 +13,7 @@ The task involved building a decision tree model to predict the species of iris 
 
 ## Dataset
 
-The dataset `iris_dataset.csv` contains measurements of iris flowers, including sepal length, sepal width, petal length, petal width, and their corresponding species labels. This dataset was used to train and test the decision tree classifier.
+The dataset `iris.csv` contains measurements of iris flowers, including sepal length, sepal width, petal length, petal width, and their corresponding species labels. This dataset was used to train and test the decision tree classifier.
 
 ## Model Evaluation
 
